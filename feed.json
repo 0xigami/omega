@@ -16,5 +16,29 @@
     
 "items": [
     
+        {
+            "id": "https://0xigami.github.io/omega/2023/02/02/omega-is-the-console",
+            "title": "Forgeries is now OMΞGA",
+            "summary": "OMΞGA is the console and Forgeries is our first cartridge.",
+            "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.int main (){\tint hello = 3;\tchar world = 'w';}",
+            "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><div class=\"language-c highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kt\">int</span> <span class=\"nf\">main</span> <span class=\"p\">(){</span>\t<span class=\"kt\">int</span> <span class=\"n\">hello</span> <span class=\"o\">=</span> <span class=\"mi\">3</span><span class=\"p\">;</span>\t<span class=\"kt\">char</span> <span class=\"n\">world</span> <span class=\"o\">=</span> <span class=\"sc\">'w'</span><span class=\"p\">;</span><span class=\"p\">}</span></code></pre></div></div>",
+            "url": "https://0xigami.github.io/omega/2023/02/02/omega-is-the-console",
+            
+            
+            
+            "tags": ["nft","ethereum"],
+            
+            "date_published": "2023-02-02T00:00:00+01:00",
+            "date_modified": "2023-02-02T00:00:00+01:00",
+            
+                "author":  {
+                "name": "Gami",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
     ]
 }
